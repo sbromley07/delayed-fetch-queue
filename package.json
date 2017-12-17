@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "A fetch request queue that processes entries with a delay",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sbromley07/delayed-fetch-queue.git"
   },
   "keywords": [
     "fetch",
@@ -13,5 +14,11 @@
     "delay"
   ],
   "author": "Steven Bromley",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbromley07/delayed-fetch-queue/issues"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
 }
