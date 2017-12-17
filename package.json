@@ -1,0 +1,17 @@
+{
+  "name": "delayed-fetch-queue",
+  "version": "1.0.0",
+  "description": "A fetch request queue that processes entries with a delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "fetch",
+    "request",
+    "queue",
+    "delay"
+  ],
+  "author": "Steven Bromley",
+  "license": "ISC"
+}
