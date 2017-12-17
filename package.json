@@ -17,8 +17,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sbromley07/delayed-fetch-queue/issues"
-  },
-  "devDependencies": {
-    "eslint": "^4.13.1"
   }
 }
